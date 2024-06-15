@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💻 [Cameron Hardin] - Electrical & Computer Engineering Student
 
-<!--
-**CamKHardin/CamKHardin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--![Header](https://your-header-image-link.com) <!-- Optional: Add a custom header image -->
 
-Here are some ideas to get you started:
+## 🎧 About Me
+I am a Junior Electrical and Computer Engineering student based in the southern U.S. with interests in audio signal processing, emerging computational frameworks, as well as music production.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 **Languages**: C++, Verilog
+- 🎓 **Education**: [Baylor University], Electrical and Computer Engineering
+- 🎸 **Hobbies**: Music, Mixing, AV system design
+
+## 🛠️ Projects
+Here are some of my noteworthy projects that demonstrate my skills and interests:
+(Currently private)
+
+## 🌐 Connect with Me
+- [LinkedIn](www.linkedin.com/in/cameron-hardin-0)
+- [Personal Website](https://freebleton.com)  (in development)
+- [Email](mailto:Cameron_Hardin1@baylor.edu)
+
+## 🔧 Technologies & Tools
+![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-green?style=for-the-badge&logo=verilog&logoColor=white)
+![Ableton](https://img.shields.io/badge/Ableton-000000?style=for-the-badge&logo=abletonlive&logoColor=white)
+![Touch Designer](https://img.shields.io/badge/Touch%20Designer-black?style=for-the-badge&logo=touchdesigner&logoColor=white)
+
+<!--![Footer](https://your-footer-image-link.com) <!-- Optional: Add a custom footer image -->
