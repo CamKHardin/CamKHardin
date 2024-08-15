@@ -15,7 +15,7 @@ Here are some of my noteworthy projects that demonstrate my skills and interests
 
 ## 🌐 Connect with Me
 - [LinkedIn](www.linkedin.com/in/cameron-hardin-0)
-- [Personal Website](https://freebleton.com)  (in development)
+- [Personal Website](https://camkhardin.github.io/myWebsite/)  (in development)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
 
 ## 🔧 Technologies & Tools
