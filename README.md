@@ -1,4 +1,4 @@
-# 💻 [Cameron Hardin] - Electrical & Computer Engineering Student
+# 💻 Cameron Hardin
 
 <!--![Header](https://your-header-image-link.com) <!-- Optional: Add a custom header image -->
 
