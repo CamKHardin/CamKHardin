@@ -17,6 +17,7 @@ Here are some of my noteworthy projects that demonstrate my skills and interests
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
 - [Personal Website](https://camkhardin.github.io/myWebsite404/)  (in development)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
+- ![](https://komarev.com/ghpvc/?username=CamKHardin)
 
 ## 🔧 Technologies & Tools
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
