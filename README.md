@@ -9,10 +9,6 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - 🎓 **Education**: Baylor University, Electrical and Computer Engineering (BSECE)
 - 🎸 **Hobbies**: Music, Mixing, AV system design
 
-## 🛠️ Projects
-Here are some of my noteworthy projects that demonstrate my skills and interests:
-(Currently private)
-
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
 - [Personal Website](https://camkhardin.github.io/myWebsite404/)  (in development)
