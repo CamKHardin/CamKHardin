@@ -11,11 +11,10 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 
 ## Projects
 - View my Gists [here](https://gist.github.com/CamKHardin)
-
+<!-- [Personal Website](https://camkhardin.github.io/myWebsite404/)  (in development) -->
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
-- [Personal Website](https://camkhardin.github.io/myWebsite404/)  (in development)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
 - ![](https://komarev.com/ghpvc/?username=CamKHardin)
 
