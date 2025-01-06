@@ -14,7 +14,7 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
 - ![](https://komarev.com/ghpvc/?username=CamKHardin)
-  
+
 ## 🔧 Technologies & Tools
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -43,6 +43,9 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![VST Development](https://img.shields.io/badge/VST%20Development-%23000000.svg?style=for-the-badge)
 ![zsh](https://img.shields.io/badge/zsh-%2385C1E9.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+- - -
+> **"But God shows his love for us in that while we were still sinners, Christ died for us."** – Romans 5:8 (ESV) 
 
 
 <!--![Footer](https://your-footer-image-link.com) <!-- Optional: Add a custom footer image -->
