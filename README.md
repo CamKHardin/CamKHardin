@@ -13,7 +13,7 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
-- ![](https://komarev.com/ghpvc/?username=CamKHardin)
+<!-- - ![](https://komarev.com/ghpvc/?username=CamKHardin) -->
 
 ## 🔧 Technologies & Tools
 
