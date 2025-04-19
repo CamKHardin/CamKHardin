@@ -27,7 +27,7 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-%23999999.svg?style=for-the-badge&logo=apple&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-%23FF7200.svg?style=for-the-badge&logo=mathworks&logoColor=white)
-![Molecular QCA](https://img.shields.io/badge/Molecular%20QCA%20Simulation-%2300BFFF.svg?style=for-the-badge)
+![Molecular QCA](https://img.shields.io/badge/Molecular%20QCA-%2300BFFF.svg?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-%230132A5.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -37,7 +37,6 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 ![TouchDesigner](https://img.shields.io/badge/TouchDesigner-%23000000.svg?style=for-the-badge&logo=derivative&logoColor=white)
 ![Verilog](https://img.shields.io/badge/Verilog-%23A8B9CC.svg?style=for-the-badge)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![VST Development](https://img.shields.io/badge/VST%20Development-%23000000.svg?style=for-the-badge)
 
 - - -
 > **"But God shows his love for us in that while we were still sinners, Christ died for us."** – Romans 5:8 (ESV) 
