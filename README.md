@@ -7,7 +7,19 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - 🎓 **Education**: Baylor University  |  *Electrical and Computer Engineering (BSECE)*
 
 ## Projects
-- View my Gists [here](https://gist.github.com/CamKHardin)
+### Nodal
+**Nodal** is a lightweight, real-time node-based environment for designing, compiling, and analyzing complex software systems.
+
+- Supports modular blackboxing, live dataflow, and mixed-mode logic
+- Language-agnostic and fully pluggable with optional Python scripting
+- Stores data in LLM-readable JSON within an SQL backend for efficient versioning and querying
+- Written entirely in modern C++, optimized to run GUI-less on devices as minimal as a Casio watch—or even a pregnancy test
+- *Currently in development*
+
+---
+
+### Gists
+You can find various small tools, experiments, and utilities in my [Gists](https://gist.github.com/CamKHardin).
 <!-- [Personal Website](https://camkhardin.github.io/myWebsite404/)  (in development) -->
 
 ## 🌐 Connect with Me
