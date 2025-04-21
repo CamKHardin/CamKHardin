@@ -16,6 +16,16 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - Written entirely in modern C++, optimized to run GUI-less on devices as minimal as a Casio watch—or even a pregnancy test
 - *Currently in development*
 
+### HealthLens SDoH
+**HealthLens SDoH** is a developer-mode Chrome extension that detects U.S. addresses on webpages and overlays contextual Social Determinants of Health (SDoH) data in real time. It leverages the [AHRQ SDoH Database](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html) to visualize key community-level factors impacting public health.
+
+- Detects U.S. addresses and displays SDoH metrics across five domains (economic, education, healthcare, environment, community)
+- Provides life expectancy estimates, and a 0–10 zip code health equity score benchmarked against national averages
+- Open source and open database, originally developed at Wacode Hackathon 2025.
+
+*Ideal for health equity research, homebuyers, and contextual data analysis.*
+
+
 ---
 
 ### Gists
