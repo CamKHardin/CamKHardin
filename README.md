@@ -13,7 +13,7 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - Supports modular blackboxing, live dataflow, threaded pipelining, and mixed-mode logic
 - Language-agnostic and fully pluggable with optional Python scripting
 - Stores data in LLM-readable JSON within an SQL backend for efficient versioning and querying
-- Written entirely in modern C++, optimized to run GUI-less on devices as minimal as a Casio watch—or even a pregnancy test
+- Written entirely in modern C++, optimized to run GUI-less on devices as minimal as a Casio watch
 - *Currently in development*
 
 ### HealthLens SDoH
