@@ -7,14 +7,15 @@ I am a Junior Electrical and Computer Engineering student based in the southern 
 - 🎓 **Education**: Baylor University  |  *Electrical and Computer Engineering (BSECE)*
 
 ## Projects
-### Nodal
-**Nodal** is a lightweight, real-time node-based environment for designing, compiling, and analyzing complex software systems.
+### QCA Forge
+**QCA Forge** is a research-oriented Quantum Dot Cellular Automata (QCA) design environment that facilitates the design, simulation, and analysis of QCA circuits.
 
-- Supports modular blackboxing, live dataflow, threaded pipelining, and mixed-mode logic
-- Language-agnostic and fully pluggable with optional Python scripting
-- Stores data in LLM-readable JSON within an SQL backend for efficient versioning and querying
-- Written entirely in modern C++, optimized to run GUI-less on devices as minimal as a Casio watch
-- *Currently in development*
+- Interactive circuit design with visual composition and manipulation of QCA structures
+- Python-scriptable core for complete programmatic control via Python bindings
+- Real-time visualization for immediate feedback during circuit development
+- Cross-platform support for Windows, macOS, and Linux
+
+*Currently in active development.*
 
 ### HealthLens SDoH
 **HealthLens SDoH** is a developer-mode Chrome extension that detects U.S. addresses on webpages and overlays contextual Social Determinants of Health (SDoH) data in real time. It leverages the [AHRQ SDoH Database](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html) to visualize key community-level factors impacting public health.
