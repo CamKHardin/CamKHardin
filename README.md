@@ -1,7 +1,7 @@
 # 💻 Cameron Hardin
 
 <!--![Header](https://your-header-image-link.com) <!-- Optional: Add a custom header image -->
-I am a Junior Electrical and Computer Engineering student based in the southern U.S. with interests in audio signal processing, emerging computational frameworks, as well as music production.
+I am a Senior Electrical and Computer Engineering student based in the southern U.S. with interests in audio signal processing and emerging computational frameworks.
 
 - 🔧 **Languages**: C++, C, MATLAB, Python
 - 🎓 **Education**: Baylor University  |  *Electrical and Computer Engineering (BSECE)*
