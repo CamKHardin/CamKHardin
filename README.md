@@ -8,14 +8,17 @@ I am a Senior Electrical and Computer Engineering student based in the southern 
 
 ## Projects
 ### QCA Forge
-**QCA Forge** is a research-oriented Quantum Dot Cellular Automata (QCA) modeling environment that facilitates the design, simulation, and analysis of QCA circuits.
 
-- Interactive circuit design with visual composition and manipulation of QCA structures
-- Python-scriptable core for complete programmatic control via Python bindings
-- Real-time visualization and plotting for immediate feedback during circuit development
-- Cross-platform support for Windows, macOS, and Linux
+**QCA Forge** is a research-oriented modeling environment for Quantum Dot Cellular Automata (QCA) that enables the design, simulation, and analysis of QCA circuits.
 
-*QCAForge is still in it's early stages. Contact me if you would like access!*
+**Key Features:**
+
+- **Interactive Circuit Design:** Visual composition and manipulation of QCA structures.
+- **Python-Scriptable Core:** Complete programmatic control through Python bindings.
+- **Real-Time Visualization:** Immediate feedback during circuit development with dynamic plotting.
+- **Cross-Platform Support:** Compatible with Windows, macOS, and Linux.
+
+*QCA Forge is currently in its early stages. Please contact me for access!*
 
 ### HealthLens SDoH
 **HealthLens SDoH** is a developer-mode Chrome extension that detects U.S. addresses on webpages and overlays contextual Social Determinants of Health (SDoH) data in real time. It leverages the [AHRQ SDoH Database](https://www.ahrq.gov/sdoh/data-analytics/sdoh-data.html) to visualize key community-level factors impacting public health.
