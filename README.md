@@ -9,7 +9,7 @@ I am a Senior Electrical and Computer Engineering student based in the southern 
 ## Projects
 ### QCA Forge
 
-**QCA Forge** is a research-oriented modeling environment for Quantum Dot Cellular Automata (QCA) that enables the design, simulation, and analysis of QCA circuits.
+**QCA Forge** is a research-oriented modeling platform for Quantum Dot Cellular Automata (QCA) that enables the design, simulation, and analysis of QCA circuits.
 
 **Key Features:**
 
