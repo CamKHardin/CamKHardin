@@ -38,6 +38,7 @@ You can find various small tools, experiments, and utilities in my [Gists](https
 
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/camkhardin/)
+- [Website](https://camkhardin.vercel.app/)
 - [Email](mailto:Cameron_Hardin1@baylor.edu)
 <!-- - ![](https://komarev.com/ghpvc/?username=CamKHardin) -->
 
