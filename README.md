@@ -5,7 +5,7 @@
 Senior Electrical and Computer Engineering student based in the southern U.S., with interests in audio signal processing and emerging computational frameworks.
 
 - 🔧 **Languages**: C++, C, Python, MATLAB
-- 🎓 **Education**: NAME University | *Electrical and Computer Engineering (BSECE)*
+- 🎓 **Education**: Baylor University | *Electrical and Computer Engineering (BSECE)*
 
 ## Projects
 
