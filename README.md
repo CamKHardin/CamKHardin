@@ -1,4 +1,4 @@
-<h1 style="margin: 0; font-size: 1px; line-height: 1px; color: transparent; opacity: 0; max-height: 0; overflow: hidden;">Cameron Hardin</h1>
+# Cameron Hardin
 
 <p align="center">
   <img src="images/CRT_Typing.gif" alt="CRT typing animation showing Cameron Hardin" />
@@ -22,20 +22,19 @@
   </tr>
 </table>
 
-<details>
-  <summary><strong style="color: #ffb300; font-size: 1.35em;">Featured Projects</strong></summary>
+<details open>
+  <summary><img src="images/heading-featured-projects.svg" alt="Featured Projects" /></summary>
 
-
-- <strong>QCA Forge</strong>: A research modeling platform for Quantum Dot Cellular Automata (QCA) that supports circuit design, simulation, and analysis.
-
-- <strong>HealthLens SDoH</strong>: A developer-mode Chrome extension that detects U.S. addresses on webpages and overlays contextual Social Determinants of Health (SDoH) data from the ARHQ database in real time.  
-  <em>Developed for the Wacode 2025 Hackathon.</em>
-
-- <strong>OpenPush3</strong>: A reverse engineering effort for the Ableton Push 3 Controller's MIDI messages with an SDK and interactive GUI.
+  <ul>
+    <li><p><strong>QCA Forge</strong>: A research modeling platform for Quantum Dot Cellular Automata (QCA) that supports circuit design, simulation, and analysis.</p></li>
+    <li><p><strong>HealthLens SDoH</strong>: A developer-mode Chrome extension that detects U.S. addresses on webpages and overlays contextual Social Determinants of Health (SDoH) data from the ARHQ database in real time. <em>Developed for the Wacode 2025 Hackathon.</em></p></li>
+    <li><p><strong>OpenPush3</strong>: A reverse engineering effort for the Ableton Push 3 Controller's MIDI messages with an SDK and interactive GUI.</p></li>
+  </ul>
 
 </details>
 
-<h2 style="color: #ffb300; font-size: 1.5em;">Tools</h2>
+<br />
+<img src="images/heading-tools.svg" alt="Tools" />
 
 <table>
   <tr>
