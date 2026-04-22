@@ -1,19 +1,18 @@
-# Cameron Hardin
+<h1 style="margin: 0; font-size: 1px; line-height: 1px; color: transparent; opacity: 0; max-height: 0; overflow: hidden;">Cameron Hardin</h1>
 
 <p align="center">
-  <img src="images/GitHub_Social_Preview_Banner.png" alt="Cameron Hardin social preview banner" style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;" />
+  <img src="images/CRT_Typing.gif" alt="CRT typing animation showing Cameron Hardin" />
 </p>
 
 <table>
   <tr>
     <td valign="top">
-      <strong>Cam Hardin</strong><br>
       Senior ECE student at Baylor University<br>
-      Focused on audio signal processing and emerging computational frameworks<br><br>
+      Focus: audio signal processing and emerging computational frameworks<br><br>
       <strong>Core Languages:</strong> C++, Python, MATLAB<br><br>
-      <a href="https://camkhardin.vercel.app/">Website</a> ·
-      <a href="https://www.linkedin.com/in/camkhardin/">LinkedIn</a> ·
-      <a href="mailto:camhardin@duck.com">Email</a>
+      <a href="https://camkhardin.vercel.app/" style="color: #ffb300;">Website</a> ·
+      <a href="https://www.linkedin.com/in/camkhardin/" style="color: #ffb300;">LinkedIn</a> ·
+      <a href="mailto:camhardin@duck.com" style="color: #ffb300;">Email</a>
     </td>
     <td align="right">
       <a href="https://github.com/camkhardin">
@@ -24,7 +23,8 @@
 </table>
 
 <details>
-  <summary><strong>Featured Projects</strong></summary>
+  <summary><strong style="color: #ffb300; font-size: 1.35em;">Featured Projects</strong></summary>
+
 
 - <strong>QCA Forge</strong>: A research modeling platform for Quantum Dot Cellular Automata (QCA) that supports circuit design, simulation, and analysis.
 
@@ -35,7 +35,7 @@
 
 </details>
 
-## Technologies & Tools
+<h2 style="color: #ffb300; font-size: 1.5em;">Tools</h2>
 
 <table>
   <tr>
