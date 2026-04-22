@@ -1,7 +1,7 @@
 # Cameron Hardin
 
 <p align="center">
-  <img src="images/GitHub_Social_Preview_Faded.png" alt="Cameron Hardin social preview banner" style="border-radius: 6px;" />
+  <img src="images/GitHub_Social_Preview_Faded_Wide.png" alt="Cameron Hardin social preview banner" width="88%" style="border-radius: 6px;" />
 </p>
 
 <table>
@@ -17,7 +17,7 @@
     </td>
     <td align="right">
       <a href="https://github.com/camkhardin">
-        <img src="images/github-stats.svg" alt="Cam Hardin GitHub stats" height="165" />
+        <img src="https://raw.githubusercontent.com/CamKHardin/CamKHardin/main/images/github-stats.svg" alt="Cam Hardin GitHub stats" height="165" />
       </a>
     </td>
   </tr>

@@ -11,10 +11,12 @@ permissions:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       # Use a PAT secret for private-repo stats; fallback keeps workflow functional.
       - name: Generate stats card
@@ -26,7 +28,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN != '' && secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit updated card
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: update GitHub stats card"
           file_pattern: images/github-stats.svg
