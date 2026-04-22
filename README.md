@@ -1,7 +1,7 @@
 # Cameron Hardin
 
 <p align="center">
-  <img src="images/GitHub_Social_Preview_Faded_Wide.png" alt="Cameron Hardin social preview banner" width="88%" style="border-radius: 6px;" />
+  <img src="images/GitHub_Social_Preview_Banner.png" alt="Cameron Hardin social preview banner" style="display: block; width: 100%; max-width: 100%; height: auto; border-radius: 8px;" />
 </p>
 
 <table>
