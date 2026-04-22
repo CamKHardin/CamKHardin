@@ -52,7 +52,7 @@ Senior Electrical and Computer Engineering student based in the southern U.S., w
   <img src="https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-> *“But God shows his love for us in that while we were still sinners, Christ died for us.”*  
-> — Romans 5:8 (ESV)
+> *“But God proves his love for us in that while we still were sinners Christ died for us.”*  
+> — Romans 5:8 (NRSV)
 
 <!-- ![Footer](https://your-footer-image-link.com) -->
