@@ -1,0 +1,32 @@
+name: Update GitHub Readme Stats
+
+on:
+  schedule:
+    - cron: "0 4 * * 0"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Use a PAT secret for private-repo stats; fallback keeps workflow functional.
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=camkhardin&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true
+          path: images/github-stats.svg
+          token: ${{ secrets.GH_STATS_TOKEN != '' && secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated card
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update GitHub stats card"
+          file_pattern: images/github-stats.svg
