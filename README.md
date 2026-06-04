@@ -7,8 +7,8 @@
 <table>
   <tr>
     <td valign="top">
-      Senior ECE student at Baylor University<br>
-      Focus: audio signal processing and emerging computational frameworks<br><br>
+      B.S. in Electrical & Computer Engineering from Baylor University<br>
+      Interests: audio signal processing and emerging computational frameworks<br><br>
       <strong>Core Languages:</strong> C++, Python, MATLAB<br><br>
       <a href="https://camkhardin.vercel.app/" style="color: #ffb300;">Website</a> ·
       <a href="https://www.linkedin.com/in/camkhardin/" style="color: #ffb300;">LinkedIn</a> ·
