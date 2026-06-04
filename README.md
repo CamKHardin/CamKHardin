@@ -8,7 +8,7 @@
   <tr>
     <td valign="top">
       B.S. in Electrical & Computer Engineering from Baylor University<br>
-      Interests: audio signal processing and emerging computational frameworks<br><br>
+      Interests: audio signal processing, emerging computational frameworks, & cybersecurity<br><br>
       <strong>Core Languages:</strong> C++, Python, MATLAB<br><br>
       <a href="https://camkhardin.vercel.app/" style="color: #ffb300;">Website</a> ·
       <a href="https://www.linkedin.com/in/camkhardin/" style="color: #ffb300;">LinkedIn</a> ·
