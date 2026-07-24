@@ -18,8 +18,19 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Determine whether to run
+        id: schedule
+        run: |
+          WEEK=$(date +%V)
+          if (( WEEK % 2 == 0 )); then
+            echo "run=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "run=false" >> "$GITHUB_OUTPUT"
+          fi
+
       # Use a PAT secret for private-repo stats; fallback keeps workflow functional.
       - name: Generate stats card
+        if: steps.schedule.outputs.run == 'true'
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
@@ -28,6 +39,7 @@ jobs:
           token: ${{ secrets.GH_STATS_TOKEN != '' && secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit updated card
+        if: steps.schedule.outputs.run == 'true'
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: update GitHub stats card"
