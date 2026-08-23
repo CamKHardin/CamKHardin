@@ -75,3 +75,4 @@
 
 > *“But God proves his love for us in that while we still were sinners Christ died for us.”*  
 > — Romans 5:8 (NRSV)
+
