@@ -8,7 +8,6 @@ on:
 permissions:
   contents: write
 
-# Never allow two stats updates to modify main at the same time.
 concurrency:
   group: update-github-stats
   cancel-in-progress: false
@@ -16,9 +15,6 @@ concurrency:
 jobs:
   update-stats:
     runs-on: ubuntu-latest
-
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
 
     steps:
       - name: Checkout repository
@@ -40,7 +36,7 @@ jobs:
             echo "ISO week ${WEEK} is even; updating stats."
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "ISO week ${WEEK} is odd; skipping stats update."
+            echo "ISO week ${WEEK} is odd; skipping stats."
           fi
 
       - name: Generate stats card
@@ -52,19 +48,16 @@ jobs:
           path: images/github-stats.svg
           token: ${{ secrets.GH_STATS_TOKEN != '' && secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      # Re-sync with origin/main before creating the automated commit.
-      # This prevents "fetch first" when main changed after checkout.
-      - name: Rebase generated changes onto latest main
+      - name: Sync with latest main
         if: steps.schedule.outputs.run == 'true'
         shell: bash
         run: |
           set -euo pipefail
 
           git fetch origin main
-
           git rebase origin/main
 
-      - name: Commit and push updated card
+      - name: Commit updated card
         if: steps.schedule.outputs.run == 'true'
         uses: stefanzweifel/git-auto-commit-action@v7
         with:
