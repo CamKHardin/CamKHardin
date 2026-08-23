@@ -8,7 +8,7 @@ on:
 permissions:
   contents: write
 
-# Prevent multiple instances from trying to update main simultaneously.
+# Never allow two stats updates to modify main at the same time.
 concurrency:
   group: update-github-stats
   cancel-in-progress: false
@@ -25,6 +25,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
+          persist-credentials: true
 
       - name: Determine whether to run
         id: schedule
@@ -36,10 +37,10 @@ jobs:
 
           if (( WEEK % 2 == 0 )); then
             echo "run=true" >> "$GITHUB_OUTPUT"
-            echo "ISO week $WEEK is even; updating stats."
+            echo "ISO week ${WEEK} is even; updating stats."
           else
             echo "run=false" >> "$GITHUB_OUTPUT"
-            echo "ISO week $WEEK is odd; skipping stats update."
+            echo "ISO week ${WEEK} is odd; skipping stats update."
           fi
 
       - name: Generate stats card
@@ -51,10 +52,21 @@ jobs:
           path: images/github-stats.svg
           token: ${{ secrets.GH_STATS_TOKEN != '' && secrets.GH_STATS_TOKEN || secrets.GITHUB_TOKEN }}
 
-      - name: Commit updated card
+      # Re-sync with origin/main before creating the automated commit.
+      # This prevents "fetch first" when main changed after checkout.
+      - name: Rebase generated changes onto latest main
         if: steps.schedule.outputs.run == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v6
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          git fetch origin main
+
+          git rebase origin/main
+
+      - name: Commit and push updated card
+        if: steps.schedule.outputs.run == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           commit_message: "chore: update GitHub stats card"
           file_pattern: images/github-stats.svg
-          pull_options: --rebase --autostash
